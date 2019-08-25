@@ -24,9 +24,9 @@
 * Where?
 * Airplane
 * Bird
-* Chicken sound
+* (Chicken sound)
 * Eww
-* Beep beep
+* Beep beep (car sound)
 * Wow
 * Eyes
 * Elbow
