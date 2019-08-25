@@ -1,5 +1,11 @@
 # Baby Acquired Language
 
+I like learning languages. However sometimes I feel like I've made little progress, having difficulty to judge how much progress I'm making. When will I become "fluent"?
+
+I happen to have a young daughter who is learning how to speak. It is hard to map out the words she knows, simply because she can ignore something I say even though she understands it. However, it is easy for me to at least list out all of the words she has said on her own, without me asking her to repeat after me.
+
+I am trying to write out a list of new words that she has said over time. It is meant as a way for me to judge my knowledge of a new language that I try to learn, to see if I at least know more than my daughter or not.
+
 ## 0 to 1.9 Years
 * Help
 * Mama
