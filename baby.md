@@ -71,16 +71,17 @@ I am trying to write out a list of new words that she has said over time. It is 
 * (Own name)
 * Bug
 * Hot
-* Bubble
 * Go
 * Car
 * Wash
 * (Pig sound)
 * Night night
+* Monkey
 
 ## 2.1 to 2.2 years
-(31 words total)
+(32 words total)
 
+* Bubble
 * Truck
 * Mouse
 * Ok
@@ -120,3 +121,4 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Off (To take clothing off)
 * Cold
 * Door
+* Owl
