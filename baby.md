@@ -99,10 +99,14 @@ I am trying to write out a list of new words that she has said over time. It is 
 * I want to go outside.
 * Other / another
 * I want sleep.
-* My turn!
 * I want this
 * I don't want this
 * Bow
 * Sticker
-* Off (To take clothing off)
 * Soap
+
+## 2.2 to 2.3 years
+* My turn!
+* Off (To take clothing off)
+* Cold
+* Door
