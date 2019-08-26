@@ -30,7 +30,6 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Where?
 * Airplane
 * Bird
-* (Chicken sound)
 * Eww
 * Beep beep (car sound)
 * Wow
@@ -38,8 +37,10 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Elbow
 * Sock
 * Shoe
+* Gone
 
 ## 2 to 2.1 years
+* (Chicken sound)
 * Water
 * Duck
 * Fish
@@ -68,13 +69,12 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Go
 * Car
 * Wash
-* Pig sound
+* (Pig sound)
 * Night night
 
 ## 2.1 to 2.2 years
 * Truck
 * Mouse
-* Gone
 * Ok
 * Hug
 * Walk
@@ -99,9 +99,10 @@ I am trying to write out a list of new words that she has said over time. It is 
 * I want to go outside.
 * Other / another
 * I want sleep.
-* My turn
+* My turn!
 * I want this
 * I don't want this
 * Bow
 * Sticker
 * Off (To take clothing off)
+* Soap
