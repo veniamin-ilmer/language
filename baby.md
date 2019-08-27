@@ -77,6 +77,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 * (Pig sound)
 * Night night
 * Monkey
+* Stuck
 
 ## 2.1 to 2.2 years
 (32 words total)
