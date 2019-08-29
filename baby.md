@@ -129,3 +129,4 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Mouth
 * Circle
 * Nose
+* Thing
