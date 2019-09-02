@@ -118,6 +118,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 ## 2.2 to 2.3 years
 (Still counting..)
 
+* Soup
 * My turn!
 * Off (To take clothing off)
 * Cold
@@ -130,3 +131,5 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Circle
 * Nose
 * Thing
+* Wet
+* Crown
