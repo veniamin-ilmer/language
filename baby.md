@@ -106,16 +106,17 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Puppy
 * Look!
 * I want to see _.
-* I want sleep.
 * I don't want this
 * Bow
 * Sticker
 * Soap
+* Cake
 
 ## 2.2 to 2.3 years
 (Still counting..)
 
 * Other / another
+* I want sleep.
 * I want to go outside.
 * Soup
 * My turn!
