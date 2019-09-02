@@ -6,7 +6,7 @@ I happen to have a young daughter who is learning how to speak. It is hard to ma
 
 I am trying to write out a list of new words that she has said over time. It is meant as a way for me to judge my knowledge of a new language that I try to learn, to see if I at least know more than my daughter or not.
 
-## 0 to 1.9 Years
+## 0 to 1 year 11 months
 (12 words total)
 
 * Help
@@ -22,7 +22,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Moo
 * (Elephant sound)
 
-## 1.9 to 2 years
+## 1 year 11 months to 2 years
 (18 words total)
 
 * No
@@ -43,8 +43,8 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Shoe
 * Gone
 
-## 2 to 2.1 years
-(31 words total)
+## 2 years to 2 years 1 month
+(30 words total)
 
 * (Chicken sound)
 * Water
@@ -76,12 +76,12 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Wash
 * (Pig sound)
 * Night night
-* Monkey
 * Stuck
 
-## 2.1 to 2.2 years
-(32 words total)
+## 2 years 1 month to 2 years 2 months
+(30 words total)
 
+* Monkey
 * Bubble
 * Truck
 * Mouse
@@ -106,10 +106,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Puppy
 * Look!
 * I want to see _.
-* I want to go outside.
-* Other / another
 * I want sleep.
-* I want this
 * I don't want this
 * Bow
 * Sticker
@@ -118,6 +115,8 @@ I am trying to write out a list of new words that she has said over time. It is 
 ## 2.2 to 2.3 years
 (Still counting..)
 
+* Other / another
+* I want to go outside.
 * Soup
 * My turn!
 * Off (To take clothing off)
