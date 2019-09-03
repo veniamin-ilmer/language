@@ -79,7 +79,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Stuck
 
 ## 2 years 1 month to 2 years 2 months
-(30 words total)
+(31 words total)
 
 * Monkey
 * Bubble
@@ -111,6 +111,7 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Sticker
 * Soap
 * Cake
+* Boo-boo
 
 ## 2.2 to 2.3 years
 (Still counting..)
