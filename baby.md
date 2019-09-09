@@ -113,8 +113,8 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Cake
 * Boo-boo
 
-## 2.2 to 2.3 years
-(Still counting..)
+## 2 years 2 months to 2 years 3 months
+(30 words total)
 
 * Other / another
 * I want sleep.
@@ -146,3 +146,8 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Backpack
 * Spoon
 * Ice
+
+## 2 years 3 months to 2 years 4 months
+(Counting...)
+
+* Sun
