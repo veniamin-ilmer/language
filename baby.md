@@ -154,3 +154,4 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Peas
 * Don't ("Don't help me" when she wants to do something on her own.)
 * Clean ("It's clean!")
+* Broken (Referring to a cookie.)
