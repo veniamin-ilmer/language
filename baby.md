@@ -156,3 +156,4 @@ I am trying to write out a list of new words that she has said over time. It is 
 * Clean ("It's clean!")
 * Broken (Referring to a cookie.)
 * Pink
+* Paper (Referring to toilet paper)
