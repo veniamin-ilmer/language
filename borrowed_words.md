@@ -8,3 +8,4 @@ Tomato = Парадајз(SR) = Paradiesapfel(DE) = Paradise Apple
 
 Orange(fruit) = Апельсин(RU) = Appelsien(NL) = Chinese Apple
 
+Potato = Картошка(RU) = Kartoffel(DE) = Tartufolo(IT) = Terrae tuber(LA) = Earth tuber
